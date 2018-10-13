@@ -1,0 +1,499 @@
+[05-Aug-2018 09:55:25 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mssmartstore/public_html/newweb/head.php:36) in /home/mssmartstore/public_html/newweb/product.php on line 16
+[05-Aug-2018 09:56:07 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mssmartstore/public_html/newweb/head.php:36) in /home/mssmartstore/public_html/newweb/product.php on line 16
+[05-Aug-2018 10:04:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/newweb/system/functions.php on line 180
+[07-Aug-2018 11:06:24 Asia/Kolkata] PHP Notice:  Undefined index: sbcat in /home/mssmartstore/public_html/newweb/products.php on line 175
+[07-Aug-2018 11:06:50 Asia/Kolkata] PHP Notice:  Undefined index: sbcat in /home/mssmartstore/public_html/newweb/products.php on line 175
+[07-Aug-2018 11:08:22 Asia/Kolkata] PHP Notice:  Undefined index: sbcat in /home/mssmartstore/public_html/newweb/products.php on line 175
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: pid in /home/mssmartstore/public_html/newweb/product.php on line 12
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/newweb/system/functions.php on line 219
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: pid in /home/mssmartstore/public_html/newweb/product.php on line 19
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_id in /home/mssmartstore/public_html/newweb/product.php on line 22
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_name in /home/mssmartstore/public_html/newweb/product.php on line 32
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img1 in /home/mssmartstore/public_html/newweb/product.php on line 49
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img2 in /home/mssmartstore/public_html/newweb/product.php on line 59
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img3 in /home/mssmartstore/public_html/newweb/product.php on line 69
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img4 in /home/mssmartstore/public_html/newweb/product.php on line 79
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img5 in /home/mssmartstore/public_html/newweb/product.php on line 89
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img1 in /home/mssmartstore/public_html/newweb/product.php on line 101
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img2 in /home/mssmartstore/public_html/newweb/product.php on line 111
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img3 in /home/mssmartstore/public_html/newweb/product.php on line 121
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img4 in /home/mssmartstore/public_html/newweb/product.php on line 131
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_img5 in /home/mssmartstore/public_html/newweb/product.php on line 141
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: is_new in /home/mssmartstore/public_html/newweb/product.php on line 156
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_discount in /home/mssmartstore/public_html/newweb/product.php on line 164
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_name in /home/mssmartstore/public_html/newweb/product.php on line 172
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_minimum_price in /home/mssmartstore/public_html/newweb/product.php on line 173
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_mrp in /home/mssmartstore/public_html/newweb/product.php on line 173
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_code in /home/mssmartstore/public_html/newweb/product.php on line 184
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_brand in /home/mssmartstore/public_html/newweb/product.php on line 187
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_highlights in /home/mssmartstore/public_html/newweb/product.php on line 195
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_size in /home/mssmartstore/public_html/newweb/product.php on line 202
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_color in /home/mssmartstore/public_html/newweb/product.php on line 218
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_desc in /home/mssmartstore/public_html/newweb/product.php on line 294
+[07-Aug-2018 20:06:06 Asia/Kolkata] PHP Notice:  Undefined index: product_id in /home/mssmartstore/public_html/newweb/product.php on line 458
+[07-Aug-2018 20:06:07 Asia/Kolkata] PHP Notice:  Undefined index: same_products in /home/mssmartstore/public_html/newweb/product.php on line 486
+[07-Aug-2018 20:06:07 Asia/Kolkata] PHP Notice:  Undefined index: similar_products in /home/mssmartstore/public_html/newweb/product.php on line 537
+[07-Aug-2018 20:06:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/newweb/system/functions.php on line 180
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined variable: pid in /home/mssmartstore/public_html/newweb/product.php on line 12
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/newweb/system/functions.php on line 219
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined variable: pid in /home/mssmartstore/public_html/newweb/product.php on line 19
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_id in /home/mssmartstore/public_html/newweb/product.php on line 22
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_name in /home/mssmartstore/public_html/newweb/product.php on line 32
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img1 in /home/mssmartstore/public_html/newweb/product.php on line 49
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img2 in /home/mssmartstore/public_html/newweb/product.php on line 59
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img3 in /home/mssmartstore/public_html/newweb/product.php on line 69
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img4 in /home/mssmartstore/public_html/newweb/product.php on line 79
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img5 in /home/mssmartstore/public_html/newweb/product.php on line 89
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img1 in /home/mssmartstore/public_html/newweb/product.php on line 101
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img2 in /home/mssmartstore/public_html/newweb/product.php on line 111
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img3 in /home/mssmartstore/public_html/newweb/product.php on line 121
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img4 in /home/mssmartstore/public_html/newweb/product.php on line 131
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_img5 in /home/mssmartstore/public_html/newweb/product.php on line 141
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: is_new in /home/mssmartstore/public_html/newweb/product.php on line 156
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_discount in /home/mssmartstore/public_html/newweb/product.php on line 164
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_name in /home/mssmartstore/public_html/newweb/product.php on line 172
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_minimum_price in /home/mssmartstore/public_html/newweb/product.php on line 173
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_mrp in /home/mssmartstore/public_html/newweb/product.php on line 173
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_code in /home/mssmartstore/public_html/newweb/product.php on line 184
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_brand in /home/mssmartstore/public_html/newweb/product.php on line 187
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_highlights in /home/mssmartstore/public_html/newweb/product.php on line 195
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_size in /home/mssmartstore/public_html/newweb/product.php on line 202
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_color in /home/mssmartstore/public_html/newweb/product.php on line 218
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_desc in /home/mssmartstore/public_html/newweb/product.php on line 294
+[07-Aug-2018 20:06:48 Asia/Kolkata] PHP Notice:  Undefined index: product_id in /home/mssmartstore/public_html/newweb/product.php on line 458
+[07-Aug-2018 20:06:49 Asia/Kolkata] PHP Notice:  Undefined index: same_products in /home/mssmartstore/public_html/newweb/product.php on line 486
+[07-Aug-2018 20:06:49 Asia/Kolkata] PHP Notice:  Undefined index: similar_products in /home/mssmartstore/public_html/newweb/product.php on line 537
+[07-Aug-2018 20:06:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/newweb/system/functions.php on line 180
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined variable: pid in /home/mssmartstore/public_html/newweb/product.php on line 12
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/newweb/system/functions.php on line 219
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined variable: pid in /home/mssmartstore/public_html/newweb/product.php on line 19
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_id in /home/mssmartstore/public_html/newweb/product.php on line 22
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_name in /home/mssmartstore/public_html/newweb/product.php on line 32
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img1 in /home/mssmartstore/public_html/newweb/product.php on line 49
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img2 in /home/mssmartstore/public_html/newweb/product.php on line 59
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img3 in /home/mssmartstore/public_html/newweb/product.php on line 69
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img4 in /home/mssmartstore/public_html/newweb/product.php on line 79
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img5 in /home/mssmartstore/public_html/newweb/product.php on line 89
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img1 in /home/mssmartstore/public_html/newweb/product.php on line 101
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img2 in /home/mssmartstore/public_html/newweb/product.php on line 111
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img3 in /home/mssmartstore/public_html/newweb/product.php on line 121
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img4 in /home/mssmartstore/public_html/newweb/product.php on line 131
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_img5 in /home/mssmartstore/public_html/newweb/product.php on line 141
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: is_new in /home/mssmartstore/public_html/newweb/product.php on line 156
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_discount in /home/mssmartstore/public_html/newweb/product.php on line 164
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_name in /home/mssmartstore/public_html/newweb/product.php on line 172
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_minimum_price in /home/mssmartstore/public_html/newweb/product.php on line 173
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_mrp in /home/mssmartstore/public_html/newweb/product.php on line 173
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_code in /home/mssmartstore/public_html/newweb/product.php on line 184
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_brand in /home/mssmartstore/public_html/newweb/product.php on line 187
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_highlights in /home/mssmartstore/public_html/newweb/product.php on line 195
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_size in /home/mssmartstore/public_html/newweb/product.php on line 202
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_color in /home/mssmartstore/public_html/newweb/product.php on line 218
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_desc in /home/mssmartstore/public_html/newweb/product.php on line 294
+[07-Aug-2018 20:06:59 Asia/Kolkata] PHP Notice:  Undefined index: product_id in /home/mssmartstore/public_html/newweb/product.php on line 458
+[07-Aug-2018 20:07:00 Asia/Kolkata] PHP Notice:  Undefined index: same_products in /home/mssmartstore/public_html/newweb/product.php on line 486
+[07-Aug-2018 20:07:00 Asia/Kolkata] PHP Notice:  Undefined index: similar_products in /home/mssmartstore/public_html/newweb/product.php on line 537
+[07-Aug-2018 20:07:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/newweb/system/functions.php on line 180
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined variable: pid in /home/mssmartstore/public_html/newweb/product.php on line 12
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/newweb/system/functions.php on line 219
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined variable: pid in /home/mssmartstore/public_html/newweb/product.php on line 19
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_id in /home/mssmartstore/public_html/newweb/product.php on line 22
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_name in /home/mssmartstore/public_html/newweb/product.php on line 32
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img1 in /home/mssmartstore/public_html/newweb/product.php on line 49
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img2 in /home/mssmartstore/public_html/newweb/product.php on line 59
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img3 in /home/mssmartstore/public_html/newweb/product.php on line 69
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img4 in /home/mssmartstore/public_html/newweb/product.php on line 79
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img5 in /home/mssmartstore/public_html/newweb/product.php on line 89
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img1 in /home/mssmartstore/public_html/newweb/product.php on line 101
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img2 in /home/mssmartstore/public_html/newweb/product.php on line 111
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img3 in /home/mssmartstore/public_html/newweb/product.php on line 121
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img4 in /home/mssmartstore/public_html/newweb/product.php on line 131
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_img5 in /home/mssmartstore/public_html/newweb/product.php on line 141
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: is_new in /home/mssmartstore/public_html/newweb/product.php on line 156
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_discount in /home/mssmartstore/public_html/newweb/product.php on line 164
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_name in /home/mssmartstore/public_html/newweb/product.php on line 172
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_minimum_price in /home/mssmartstore/public_html/newweb/product.php on line 173
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_mrp in /home/mssmartstore/public_html/newweb/product.php on line 173
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_code in /home/mssmartstore/public_html/newweb/product.php on line 184
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_brand in /home/mssmartstore/public_html/newweb/product.php on line 187
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_highlights in /home/mssmartstore/public_html/newweb/product.php on line 195
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_size in /home/mssmartstore/public_html/newweb/product.php on line 202
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_color in /home/mssmartstore/public_html/newweb/product.php on line 218
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_desc in /home/mssmartstore/public_html/newweb/product.php on line 294
+[08-Aug-2018 10:59:56 Asia/Kolkata] PHP Notice:  Undefined index: product_id in /home/mssmartstore/public_html/newweb/product.php on line 458
+[08-Aug-2018 10:59:57 Asia/Kolkata] PHP Notice:  Undefined index: same_products in /home/mssmartstore/public_html/newweb/product.php on line 486
+[08-Aug-2018 10:59:57 Asia/Kolkata] PHP Notice:  Undefined index: similar_products in /home/mssmartstore/public_html/newweb/product.php on line 537
+[08-Aug-2018 10:59:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/newweb/system/functions.php on line 180
+[08-Aug-2018 11:01:16 Asia/Kolkata] PHP Notice:  Undefined index: sbcat in /home/mssmartstore/public_html/newweb/products.php on line 175
+[12-Sep-2018 14:37:29 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 350
+[12-Sep-2018 14:37:29 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 14:37:29 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 14:37:29 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 14:37:29 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 14:37:29 Asia/Kolkata] PHP Notice:  Undefined variable: _wish_data in /home/mssmartstore/public_html/product.php on line 675
+[12-Sep-2018 14:37:29 Asia/Kolkata] PHP Notice:  Undefined variable: _wish_data in /home/mssmartstore/public_html/product.php on line 676
+[12-Sep-2018 14:37:39 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:38:19 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:38:51 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:39:30 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:40:27 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:40:33 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:40:54 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:42:08 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:43:09 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:43:55 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:44:02 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:45:21 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:45:25 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(15): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:48:38 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(16): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:48:45 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(16): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:50:02 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(16): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:50:18 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(16): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:51:27 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(16): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:52:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(16): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:55:17 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(17): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:56:35 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(17): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 14:58:44 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(17): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:00:56 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(17): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:01:58 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(23): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:06:03 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:10:23 Asia/Kolkata] PHP Notice:  Undefined index: HTTP_REFERER in /home/mssmartstore/public_html/login.php on line 5
+[12-Sep-2018 15:10:23 Asia/Kolkata] PHP Notice:  Undefined index: HTTP_REFERER in /home/mssmartstore/public_html/login.php on line 34
+[12-Sep-2018 15:15:33 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:15:45 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:17:57 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:17:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:18:00 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:18:00 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:18:01 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:18:01 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:19:56 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:22:43 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:22:48 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:25:33 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(18): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:27:50 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:28:05 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:28:39 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /home/mssmartstore/public_html/fb-callback.php on line 31
+[12-Sep-2018 15:28:45 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /home/mssmartstore/public_html/fb-callback.php on line 31
+[12-Sep-2018 15:30:24 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:30:44 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:31:11 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:32:33 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:34:05 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:34:06 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:37:05 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 15:46:19 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(21): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 16:34:56 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 350
+[12-Sep-2018 16:34:56 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 350
+[12-Sep-2018 16:34:56 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 350
+[12-Sep-2018 16:34:56 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 16:34:56 Asia/Kolkata] PHP Notice:  Undefined variable: _wish_data in /home/mssmartstore/public_html/product.php on line 675
+[12-Sep-2018 16:34:56 Asia/Kolkata] PHP Notice:  Undefined variable: _wish_data in /home/mssmartstore/public_html/product.php on line 676
+[12-Sep-2018 16:34:58 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 350
+[12-Sep-2018 16:34:58 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 350
+[12-Sep-2018 16:34:58 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 350
+[12-Sep-2018 16:34:58 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 16:34:58 Asia/Kolkata] PHP Notice:  Undefined variable: _wish_data in /home/mssmartstore/public_html/product.php on line 675
+[12-Sep-2018 16:34:58 Asia/Kolkata] PHP Notice:  Undefined variable: _wish_data in /home/mssmartstore/public_html/product.php on line 676
+[12-Sep-2018 16:49:39 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 16:50:06 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 16:50:14 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 350
+[12-Sep-2018 16:50:14 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 16:50:14 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 16:50:14 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 16:50:14 Asia/Kolkata] PHP Notice:  Undefined variable: wish_data in /home/mssmartstore/public_html/product.php on line 367
+[12-Sep-2018 16:50:14 Asia/Kolkata] PHP Notice:  Undefined variable: _wish_data in /home/mssmartstore/public_html/product.php on line 675
+[12-Sep-2018 16:50:14 Asia/Kolkata] PHP Notice:  Undefined variable: _wish_data in /home/mssmartstore/public_html/product.php on line 676
+[12-Sep-2018 16:53:55 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 16:55:21 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 17:01:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 17:02:09 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 17:04:51 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 17:08:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 17:09:11 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Sep-2018 17:12:55 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Cross-site request forgery validation failed. Required param "state" missing from persistent data.' in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/mssmartstore/public_html/fb-callback.php(20): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/mssmartstore/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244

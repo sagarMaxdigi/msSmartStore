@@ -1,0 +1,9 @@
+[01-Nov-2017 17:07:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/system/checklogin.php on line 12
+[01-Nov-2017 17:07:53 Asia/Kolkata] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/mssmartstore/public_html/system/checklogin.php on line 29
+[01-Nov-2017 17:09:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/system/checklogin.php on line 12
+[01-Nov-2017 17:09:13 Asia/Kolkata] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/mssmartstore/public_html/system/checklogin.php on line 29
+[01-Nov-2017 17:10:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/system/checklogin.php on line 12
+[01-Nov-2017 17:12:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mssmartstore/public_html/system/checklogin.php on line 13
+[02-Nov-2017 13:32:41 Asia/Kolkata] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/mssmartstore/public_html/system/checklogin.php on line 55
+[02-Nov-2017 13:33:14 Asia/Kolkata] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/mssmartstore/public_html/system/checklogin.php on line 55
+[03-Nov-2017 23:36:45 Asia/Kolkata] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/mssmartstore/public_html/system/checklogin.php on line 55

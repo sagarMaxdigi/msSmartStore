@@ -1,0 +1,95 @@
+<?php
+	//ini_set('display_errors', 'On');
+	//error_reporting(E_ALL);
+
+	include_once("checksession.php");
+	include_once("../connection.php");
+	include_once("../functions.php");
+	$title="Home";
+?>
+<!DOCTYPE html>
+<html>
+  <?php
+	  include("header.php");
+  ?>
+  <body class="hold-transition skin-blue sidebar-mini">
+    <div class="wrapper">
+		<?php
+			include_once("navbar.php");
+		?>
+        <!-- Left side column. contains the logo and sidebar -->
+      <aside class="main-sidebar">
+        <!-- sidebar: style can be found in sidebar.less -->
+        <?php
+			include_once("vlinks.php");
+		?>
+      </aside>
+      <!-- Content Wrapper. Contains page content -->
+      <div class="content-wrapper">
+        <!-- Content Header (Page header) -->
+        <section class="content-header">
+          <h1>
+            Dashboard
+          </h1>
+          <ol class="breadcrumb">
+            <li><a href="index.php"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li class="active">Dashboard</li>
+          </ol>
+        </section>
+        <!-- Main content -->
+        <section class="content">
+          <!-- Small boxes (Stat box) -->
+          <div class="row">
+            <div class="col-lg-3 col-xs-6">
+              <div class="small-box bg-yellow">
+                <div class="inner">
+                  <h3>10</h3>
+                  <p>
+                  Locations
+                  </p>
+                </div>
+                <div class="icon">
+                  <i class="ion ion-location"></i>
+                </div>
+                <a href="teachers.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-3 col-xs-6">
+              <!-- small box -->
+              <div class="small-box bg-aqua">
+                <div class="inner">
+                  <h3>15</h3>
+                  <p>Departments</p>
+                </div>
+                <div class="icon">
+                  <i class="ion ion-android-bookmark"></i>
+                </div>
+                <a href="students.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-3 col-xs-6">
+              <!-- small box -->
+              <div class="small-box bg-blue">
+                <div class="inner">
+                  <h3>800</h3>
+                  <p>Employees</p>
+                </div>
+                <div class="icon">
+                  <i class="ion ion-person"></i>
+                </div>
+                <a href="students.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+              </div>
+            </div>
+          </div><!-- /.row -->
+          <!-- Main row -->
+        </section><!-- /.content -->
+      </div><!-- /.content-wrapper -->
+	<?php
+		include_once("footer.php");
+	?>
+    </div><!-- ./wrapper -->
+    <?php
+	include_once("js.php");
+	?>
+  </body>
+</html>
