@@ -22,7 +22,7 @@
 	<!-- /BREADCRUMB -->
 
 	<!-- section -->
-	<div class="section">
+	<div class="section">     
 		<!-- container -->
 		<div class="container">
 			<!-- row -->
