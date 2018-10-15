@@ -17,7 +17,7 @@
 				<li><a href="#">Home</a></li>
 				<li class="active">Login</li>
 			</ul>
-		</div>
+		</div>     
 	</div>
 	<!-- /BREADCRUMB -->
 
