@@ -17,12 +17,12 @@
 				<li><a href="#">Home</a></li>
 				<li class="active">Login</li>
 			</ul>
-		</div>
+		</div>     
 	</div>
 	<!-- /BREADCRUMB -->
 
 	<!-- section -->
-	<div class="section">
+	<div class="section">     
 		<!-- container -->
 		<div class="container">
 			<!-- row -->
